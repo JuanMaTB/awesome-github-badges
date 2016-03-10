@@ -4,24 +4,26 @@
 
 > A curated list of awesome github README.md badges 
 
-+ [AppVeyor](https://www.appveyor.com/docs/status-badges) - AppVeyor Status badges
++ [AppVeyor](https://www.appveyor.com/docs/status-badges) - AppVeyor Status Badges.
++ [BitDeli](https://bitdeli.com/) - Analytics Badge for GitHub.
 + [bitHound](https://www.bithound.io/) - Analysis the repository code and generates 
 	+ overall badge
 	+ npm & bower dependencies badges
 	+ code badge
 	+ dev dependencies badge
-+ [Code Climate](https://codeclimate.com) - Automated Code Review For Your Private Repositories. 
++ [Codeship](https://codeship.com/documentation/faq/codeship-badge/) - Codeship Status Badge.
++ [Code Climate](https://codeclimate.com) - Automated Code Review For Your Private Repositories.
++ [Codecov](https://codecov.io) - faster code reviews and workflow enhancements.
++ [FORTHEBADGE](http://forthebadge.com/) - Badges for the sake of Badges.
 + [Gitter](https://gitter.im) - Create a Room using GitHub Repository, Gitter automatically adds badge to the repository.
++ [Grunt](http://gruntjs.com/built-with-grunt-badge) - Built with Grunt Badge.
 + [Inch CI](http://inch-ci.org/) - Documentation badges for Ruby, JS & Elixir.
++ [NodeICO](https://nodei.co/) - classy node.js badges.
++ [Semaphore CI](https://semaphoreci.com/docs/how-to-get-build-badge.html) - Semaphore CI Build Status Badge.
 + [Shields.io](http://shields.io/) - Quality metadata badges for open source projects.
++ [Travis CI](https://docs.travis-ci.com/user/status-images/) - Travis CI Status Badge.
 + [Version Badge](https://badge.fury.io/) - Version Badge for npm, Ruby, Python, Bower, GitHub, NuGet, PHP, CocoaPods, Perl, PGXN.
-+ [NodeICO](https://nodei.co/) - classy node.js badges
-
-## Contributing
-
-Contributions are very welcome!
-
-[Contribution guidelines](contributing.md)
++ [Wercker](http://blog.wercker.com/2014/02/10/branch-badges.html) - Wercker Branch Badges.
 
 ## License
 
