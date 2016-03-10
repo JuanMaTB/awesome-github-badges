@@ -15,3 +15,15 @@
 + [Inch CI](http://inch-ci.org/) - Documentation badges for Ruby, JS & Elixir.
 + [Shields.io](http://shields.io/) - Quality metadata badges for open source projects.
 + [Version Badge](https://badge.fury.io/) - Version Badge for npm, Ruby, Python, Bower, GitHub, NuGet, PHP, CocoaPods, Perl, PGXN.
+
+## Contributing
+
+Contributions are very welcome!
+
+[Contribution guidelines](contributing.md)
+
+## License
+
+![cc license](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
