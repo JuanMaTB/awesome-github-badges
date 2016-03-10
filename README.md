@@ -15,6 +15,7 @@
 + [Inch CI](http://inch-ci.org/) - Documentation badges for Ruby, JS & Elixir.
 + [Shields.io](http://shields.io/) - Quality metadata badges for open source projects.
 + [Version Badge](https://badge.fury.io/) - Version Badge for npm, Ruby, Python, Bower, GitHub, NuGet, PHP, CocoaPods, Perl, PGXN.
++ [NodeICO](https://nodei.co/) - classy node.js badges
 
 ## Contributing
 
