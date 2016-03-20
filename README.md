@@ -5,7 +5,6 @@
 > A curated list of awesome github README.md badges 
 
 + [AppVeyor](https://www.appveyor.com/docs/status-badges) - AppVeyor Status Badges.
-+ [Travis CI](https://travis-ci.org/) - Build Status Badge.
 + [BitDeli](https://bitdeli.com/) - Analytics Badge for GitHub.
 + [bitHound](https://www.bithound.io/) - Analysis the repository code and generates 
 	+ overall badge
