@@ -5,6 +5,7 @@
 > A curated list of awesome github README.md badges 
 
 + [AppVeyor](https://www.appveyor.com/docs/status-badges) - AppVeyor Status Badges.
++ [Travis CI](https://travis-ci.org/) - Build Status Badge.
 + [BitDeli](https://bitdeli.com/) - Analytics Badge for GitHub.
 + [bitHound](https://www.bithound.io/) - Analysis the repository code and generates 
 	+ overall badge
@@ -15,10 +16,12 @@
 + [Code Climate](https://codeclimate.com) - Automated Code Review For Your Private Repositories.
 + [Codecov](https://codecov.io) - faster code reviews and workflow enhancements.
 + [FORTHEBADGE](http://forthebadge.com/) - Badges for the sake of Badges.
++ [Gemnasium](https://gemnasium.com/) - Dependencies Checks Badge.
 + [Gitter](https://gitter.im) - Create a Room using GitHub Repository, Gitter automatically adds badge to the repository.
 + [Grunt](http://gruntjs.com/built-with-grunt-badge) - Built with Grunt Badge.
 + [Inch CI](http://inch-ci.org/) - Documentation badges for Ruby, JS & Elixir.
 + [NodeICO](https://nodei.co/) - classy node.js badges.
++ [RubyGems](https://rubygems.org/) - Gem Version Badge.«» 
 + [Semaphore CI](https://semaphoreci.com/docs/how-to-get-build-badge.html) - Semaphore CI Build Status Badge.
 + [Shields.io](http://shields.io/) - Quality metadata badges for open source projects.
 + [Travis CI](https://docs.travis-ci.com/user/status-images/) - Travis CI Status Badge.
