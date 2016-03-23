@@ -23,6 +23,7 @@
 + [RubyGems](https://rubygems.org/) - Gem Version Badge.«» 
 + [Semaphore CI](https://semaphoreci.com/docs/how-to-get-build-badge.html) - Semaphore CI Build Status Badge.
 + [Shields.io](http://shields.io/) - Quality metadata badges for open source projects.
++ [Stability Badges](https://github.com/badges/stability-badges) - A set of SVG badges to mark your modules with the Node stability index.
 + [Travis CI](https://docs.travis-ci.com/user/status-images/) - Travis CI Status Badge.
 + [Version Badge](https://badge.fury.io/) - Version Badge for npm, Ruby, Python, Bower, GitHub, NuGet, PHP, CocoaPods, Perl, PGXN.
 + [Wercker](http://blog.wercker.com/2014/02/10/branch-badges.html) - Wercker Branch Badges.
