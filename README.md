@@ -19,8 +19,9 @@
 + [Gitter](https://gitter.im) - Create a Room using GitHub Repository, Gitter automatically adds badge to the repository.
 + [Grunt](http://gruntjs.com/built-with-grunt-badge) - Built with Grunt Badge.
 + [Inch CI](http://inch-ci.org/) - Documentation badges for Ruby, JS & Elixir.
++ [JavaScript Standard Style](https://github.com/feross/standard) - https://github.com/feross/standard#badge
 + [NodeICO](https://nodei.co/) - classy node.js badges.
-+ [RubyGems](https://rubygems.org/) - Gem Version Badge.«» 
++ [RubyGems](https://rubygems.org/) - Gem Version Badge.
 + [Semaphore CI](https://semaphoreci.com/docs/how-to-get-build-badge.html) - Semaphore CI Build Status Badge.
 + [Shields.io](http://shields.io/) - Quality metadata badges for open source projects.
 + [Stability Badges](https://github.com/badges/stability-badges) - A set of SVG badges to mark your modules with the Node stability index.
