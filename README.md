@@ -2,11 +2,11 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/chetanraj/awesome-github-badges)
 
-> A curated list of awesome github README.md badges 
+> A curated list of awesome github README.md badges
 
 + [AppVeyor](https://www.appveyor.com/docs/status-badges) - AppVeyor Status Badges.
 + [BitDeli](https://bitdeli.com/) - Analytics Badge for GitHub.
-+ [bitHound](https://www.bithound.io/) - Analysis the repository code and generates 
++ [bitHound](https://www.bithound.io/) - Analysis the repository code and generates
 	+ overall badge
 	+ npm & bower dependencies badges
 	+ code badge
@@ -19,7 +19,7 @@
 + [Gitter](https://gitter.im) - Create a Room using GitHub Repository, Gitter automatically adds badge to the repository.
 + [Grunt](http://gruntjs.com/built-with-grunt-badge) - Built with Grunt Badge.
 + [Inch CI](http://inch-ci.org/) - Documentation badges for Ruby, JS & Elixir.
-+ [JavaScript Standard Style](https://github.com/feross/standard) - https://github.com/feross/standard#badge
++ [JavaScript Standard Style](https://github.com/feross/standard#badge) - JavaScript Standard Style - Not like JSLint or JS Hint
 + [NodeICO](https://nodei.co/) - classy node.js badges.
 + [RubyGems](https://rubygems.org/) - Gem Version Badge.
 + [Semaphore CI](https://semaphoreci.com/docs/how-to-get-build-badge.html) - Semaphore CI Build Status Badge.
