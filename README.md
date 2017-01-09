@@ -14,6 +14,7 @@
 + [Codeship](https://codeship.com/documentation/faq/codeship-badge/) - Codeship Status Badge.
 + [Code Climate](https://codeclimate.com) - Automated Code Review For Your Private Repositories.
 + [Codecov](https://codecov.io) - faster code reviews and workflow enhancements.
++ [David.](https://david-dm.org/) - Watch your node.js dependencies.
 + [FORTHEBADGE](http://forthebadge.com/) - Badges for the sake of Badges.
 + [Gemnasium](https://gemnasium.com/) - Dependencies Checks Badge.
 + [Gitter](https://gitter.im) - Create a Room using GitHub Repository, Gitter automatically adds badge to the repository.
