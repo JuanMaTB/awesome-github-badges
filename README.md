@@ -29,6 +29,7 @@
 + [Travis CI](https://docs.travis-ci.com/user/status-images/) - Travis CI Status Badge.
 + [Version Badge](https://badge.fury.io/) - Version Badge for npm, Ruby, Python, Bower, GitHub, NuGet, PHP, CocoaPods, Perl, PGXN.
 + [Wercker](http://blog.wercker.com/2014/02/10/branch-badges.html) - Wercker Branch Badges.
++ [Gitential](https://gitential.com) - Coding Hours, Productivity, Active Contributors
 
 ## License
 
