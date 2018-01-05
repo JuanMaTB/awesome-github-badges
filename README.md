@@ -18,6 +18,7 @@
 + [FORTHEBADGE](http://forthebadge.com/) - Badges for the sake of Badges.
 + [Gemnasium](https://gemnasium.com/) - Dependencies Checks Badge.
 + [Gitter](https://gitter.im) - Create a Room using GitHub Repository, Gitter automatically adds badge to the repository.
++ [Gitential](https://gitential.com) - Coding Hours, Productivity, Active Contributors
 + [Grunt](http://gruntjs.com/built-with-grunt-badge) - Built with Grunt Badge.
 + [Inch CI](http://inch-ci.org/) - Documentation badges for Ruby, JS & Elixir.
 + [JavaScript Standard Style](https://github.com/feross/standard#badge) - JavaScript Standard Style - Not like JSLint or JS Hint
@@ -29,7 +30,6 @@
 + [Travis CI](https://docs.travis-ci.com/user/status-images/) - Travis CI Status Badge.
 + [Version Badge](https://badge.fury.io/) - Version Badge for npm, Ruby, Python, Bower, GitHub, NuGet, PHP, CocoaPods, Perl, PGXN.
 + [Wercker](http://blog.wercker.com/2014/02/10/branch-badges.html) - Wercker Branch Badges.
-+ [Gitential](https://gitential.com) - Coding Hours, Productivity, Active Contributors
 
 ## License
 
