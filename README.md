@@ -6,11 +6,6 @@
 
 + [AppVeyor](https://www.appveyor.com/docs/status-badges) - AppVeyor Status Badges.
 + [BitDeli](https://bitdeli.com/) - Analytics Badge for GitHub.
-+ [bitHound](https://www.bithound.io/) - Analysis the repository code and generates
-	+ overall badge
-	+ npm & bower dependencies badges
-	+ code badge
-	+ dev dependencies badge
 + [Codeship](https://codeship.com/documentation/faq/codeship-badge/) - Codeship Status Badge.
 + [Code Climate](https://codeclimate.com) - Automated Code Review For Your Private Repositories.
 + [Codecov](https://codecov.io) - faster code reviews and workflow enhancements.
